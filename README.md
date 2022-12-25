@@ -38,6 +38,6 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 
 # Subscribe 
 
-1) https://youtube.com/@greymattersyt
+1) https://youtube.com/@RnpDeveloper
 
-2) https://youtube.com/@GreyMattersBot
+2) https://youtube.com/@RnpDeveloper
